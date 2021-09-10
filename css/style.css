@@ -1,0 +1,56 @@
+html,
+body {
+  padding: 0;
+  margin: 0;
+
+  color: white;
+  background-color: hsl(0deg 0% 10%);
+
+  font-family: "EB Garamond", serif, sans-serif;
+
+  max-width: 800px;
+  margin: 0px auto;
+  padding: 15px 20px;
+  text-align: center;
+}
+h1 {
+  font-size: 5rem;
+  margin: 15px 0px 0px 0px;
+}
+h2 {
+  font-size: 2rem;
+  margin: 15px 0px 0px 0px;
+}
+h3 {
+  font-size: 1.5rem;
+  margin: 15px 0px 0px 0px;
+}
+
+a {
+  text-decoration: none;
+}
+p {
+  color: #8e8e8e;
+  font-size: 22px;
+  margin: 0px;
+}
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-weight: normal;
+}
+ul li p {
+  margin: 15px 0px;
+  text-align: left;
+}
+
+ul li a {
+  color: white;
+}
+
+ul li a:hover {
+  text-decoration: underline;
+}
